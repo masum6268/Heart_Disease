@@ -26,6 +26,10 @@ The system combines a **TypeScript + React frontend** with a **Django + FastAPI 
 
 ---
 
+## Collect the dataset Images:
+
+https://www.kaggle.com/datasets/nih-chest-xrays/data?fbclid=IwY2xjawPCFxVleHRuA2FlbQIxMABicmlkETFWVWhDWXg0U1pDWlRSM1Jic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHh_3xM2xdee6xAR-OMjNgmWJnsvOj4mcFPZpKHaKJBaZfMwvBrtHAKungUiV_aem_uZjNpDiNMeP2QFlFSVzT7g
+
 ### 1. Backend Setup (Django + FastAPI)
 
 1. Create and activate a virtual environment:
